@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401519393438",
+    "firebase_url": "https://digitalvisits-3f358.firebaseio.com",
+    "project_id": "digitalvisits-3f358",
+    "storage_bucket": "digitalvisits-3f358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401519393438:android:54619a88ef24a5cd85198f",
+        "android_client_info": {
+          "package_name": "sg.org.dso.digitalvisits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401519393438-657qfrp4bnlmrfk9jhe5u8p9qqnibse2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6JUqMoioUHX55dR04SHXrb1GjwVj5Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401519393438-657qfrp4bnlmrfk9jhe5u8p9qqnibse2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
